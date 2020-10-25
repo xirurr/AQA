@@ -17,7 +17,7 @@ namespace AQA
             var parameters = new StringBuilder();
             var correctMargins = new decimal();
             
-            for (var i = 0; i < 3; i++)
+            for (var i = 0; i < 4; i++)
             {
                 var inputValue = new InputValue
                 {
